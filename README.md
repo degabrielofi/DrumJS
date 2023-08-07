@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="DrumJS" src="./GitHub/Mockup.png " width="70%"> 
+  <img alt="DrumJS" src="./aasets/GitHub/Mockup.png " width="70%"> 
   </p>
 
 # :clipboard: Sobre o projeto
