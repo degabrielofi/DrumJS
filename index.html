@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./assets/images/icon_net.png" type="image/x-icon">
+    <title>Bateria Virtual | @degabrielofi</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+    <div class="drum">
+        <div data-key="keyq" class="drum-pad bass-drum">Q</div>
+        <div data-key="keyw" class="drum-pad snare-drum">W</div>
+        <div data-key="keye" class="drum-pad hi-hat">E</div>
+
+        <div data-key="keya" class="drum-pad tom-1">A</div>
+        <div data-key="keys" class="drum-pad tom-2">S</div>
+        <div data-key="keyd" class="drum-pad tom-3">D</div>
+
+        <div data-key="keyz" class="drum-pad crash-cymbal">Z</div>
+        <div data-key="keyx" class="drum-pad ride-cymbal">X</div>
+        <div data-key="keyc" class="drum-pad hi-hat-open">C</div>
+    </div>
+    <div class="composer">
+        <input type="text" id="input" placeholder="Faça a sua composição!" />
+        <input type="number" id="time" placeholder="Tempo da composição">
+        <button>Play</button>
+        <p></p>
+    </div>
+
+    <audio id="s_keyq" src="./assets/sounds/keyq.wav"></audio>
+    <audio id="s_keyw" src="./assets/sounds/keyw.wav"></audio>
+    <audio id="s_keye" src="./assets/sounds/keye.wav"></audio>
+    <audio id="s_keya" src="./assets/sounds/keya.wav"></audio>
+    <audio id="s_keys" src="./assets/sounds/keys.wav"></audio>
+    <audio id="s_keyd" src="./assets/sounds/keyd.wav"></audio>
+    <audio id="s_keyz" src="./assets/sounds/keyz.wav"></audio>
+    <audio id="s_keyx" src="./assets/sounds/keyx.wav"></audio>
+    <audio id="s_keyc" src="./assets/sounds/keyc.wav"></audio>
+    
+    <script src="script.js"></script>
+</body>
+</html>
