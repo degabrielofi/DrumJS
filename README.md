@@ -4,7 +4,11 @@
 
 # :clipboard: Sobre o projeto
 
-Simples Projeto realizado com HTML, CSS e JavaScript de um bateria virtual na qual é possível fazer composições e definir o tempo da sua música utilizando os sons disponíveis na bateria.
+   Simples Projeto realizado com HTML, CSS e JavaScript de um bateria virtual na qual é possível fazer composições e definir o tempo da sua música utilizando os sons disponíveis na bateria.
+     <br>
+# 🔗 Acesse o site com o link abaixo. 
+
+- [Bateria Virtual](https://degabrielofi.github.io/DrumJS/)
 
 ## :computer: Tecnologias utilizadas
 Este projeto foi desenvolvido com as seguintes tecnologias:
